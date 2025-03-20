@@ -25,7 +25,7 @@ body {
   color: rgba(248, 248, 248, 1);
 }
 #instructors {
-  background-image: url("/img/banner_down.jpg");
+  background-image: url("./img/banner_down.jpg");
   background-size: contain;
 }
 .img-slide {
